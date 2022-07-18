@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Saurav
-- 👀 I’m interested in CyberSecurity,SecurityResearch
-- 🌱 I’m currently learning C,C++.
-- 💞️ I’m looking to collaborate on C++
+- 👋 Hi, I’m Saurav Kumar Choudhary.
+- 👀 I’m interested in Competitive Programing & CyberSecurity.
+- 🌱 I’m currently learning C,C++ & DSA.
+- 💞️ I’m looking to collaborate on Software Development and Cyber Security Intern.
 - 📫 How to reach me saurabhkr.student@gmail.com
 
 <!---
