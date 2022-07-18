@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Saurav
 - 👀 I’m interested in CyberSecurity,SecurityResearch
-- 🌱 I’m currently learning C++,JAVA,Python,JavaScript
+- 🌱 I’m currently learning C,C++.
 - 💞️ I’m looking to collaborate on C++
 - 📫 How to reach me saurabhkr.student@gmail.com
 
